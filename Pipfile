@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+scikit-image = "*"
+Keras = "==2.0.9"
+opencv-contrib-python = "*"
+pillow = "*"
+matplotlib = "*"
+scipy = "==1.1.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

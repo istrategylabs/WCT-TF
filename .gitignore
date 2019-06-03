@@ -1,4 +1,5 @@
 __pycache__/
+.DS_Store
 images
 models/models.zip
 models/relu1_1
@@ -7,3 +8,5 @@ models/relu3_1
 models/relu4_1
 models/relu5_1
 models/vgg_normalised.t7
+samples/*
+styles/*
